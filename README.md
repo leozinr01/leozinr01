@@ -1,46 +1,65 @@
-👋 Olá! Eu sou o Leonardo de Freitas Ribeiro
+# 👩🏻‍💻 Larissa Kich
 
-Sou desenvolvedor apaixonado por tecnologia, com foco em Python e back-end. Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Augusto Motta (UNISUAM) – Campo Grande, Rio de Janeiro, onde aprofundo meus conhecimentos em programação, arquitetura de software e banco de dados.
+**`Desenvolvedora FullStack`**
 
-🐍 Tecnologias que utilizo
+Me chamo Leonardo Freitas, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM (RJ).
+---
 
-Linguagens: Python, SQL.
+### 🤖 Linguagens e Tecnologias
 
-Frameworks: Django, Flas, FastAPI (estudando)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
-Ionic + Angular (projetos faculdade)
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-Banco de Dados: MySQL, SQLite, Firebase (Realtime Database, Authentication).
+<br/>
+<br/>
 
-Ferramentas & Outras Skills: Git & GitHub
+### 📊 Estatísticas
 
-Criação de APIs REST
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-Integração entre sistemas
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Automação com Python
-
-Deploy em Render, Railway e PythonAnywhere
-
-🎓 Formação
-
-Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
-📍 UNISUAM – Campo Grande, RJ
-📅 Terminó 07/2026
-
-🚀 O que eu gosto de desenvolver
-
-APIs e sistemas backend
-
-Projetos em Python
-
-Automação de processos
-
-Integração de sistemas
-
-Projetos práticos que resolvem problema real
-
-📬 Como me encontrar
-
-E-mail: devleonardoo@icloud.com
-LinkedIn: https://www.linkedin.com/in/leozinr01/
+</p>
