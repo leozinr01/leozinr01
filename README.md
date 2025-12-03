@@ -54,11 +54,11 @@ Me chamo Leonardo Freitas, tenho 24 anos e sou natural do Rio de Janeiro. Atualm
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://www.eetasia.com/wp-content/uploads/sites/2/2021/03/amazon-AWS_1200.jpg?w=600&h=338&crop=1" 
 />
 
 <br/>
