@@ -1,9 +1,9 @@
-# 👩🏻‍💻 Leonardo Freitas
+👩🏻‍💻 Leonardo Freitas
 
-**`Desenvolvedor Back-End
+Desenvolvedor Back-End
 
-Me chamo Leonardo Freitas, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM (RJ).
----
+Sou desenvolvedor apaixonado por tecnologia, com foco em Python e back-end. Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Augusto Motta (UNISUAM) – Campo Grande, Rio de Janeiro, onde aprofundo meus conhecimentos em programação, arquitetura de software e banco de dados.
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -64,22 +64,25 @@ Me chamo Leonardo Freitas, tenho 24 anos e sou natural do Rio de Janeiro. Atualm
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+🚀 O que eu gosto de desenvolver
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+APIs e sistemas backend
 
-</p>
+Projetos em Python
+
+Automação de processos
+
+Integração de sistemas
+
+Apps híbridos usando Ionic
+
+Projetos práticos que resolvem problema real
+
+<br/>
+<br/>
+
+📬 Como me encontrar
+
+E-mail: devleonardoo@outlook.com
+LinkedIn: https://www.linkedin.com/in/leozinr01/
