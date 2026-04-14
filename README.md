@@ -1,5 +1,7 @@
 `Software Engineer` . `2+ Years of Experience` · `member @`
 
+Leonardo Ribeiro
+
 Studying Systems Analysis and Development (4th/5th semester) at Centro Universitário Augusto Motta (UNISUAM), Rio de Janeiro, passionate about technology, continuous learning, building real-world solutions and transforming ideas into code.
 
 Reach me at: devleonardoo@outlook.com
