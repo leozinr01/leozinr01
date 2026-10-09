@@ -19,7 +19,7 @@ Backend Software Developer focused on Java, Spring Boot, and backend architectur
  • I treat automated testing as part of development, using JUnit, Mockito and Testcontainers to validate business
    rules and integrations.
  <br>
- • I explore event-driven architecture, Apache Kafka, distributed systems, and AI integration with Java.---
+ • I explore event-driven architecture, Apache Kafka, distributed systems, and AI integration with Java.
 
 ## 🛠️ Languages and Tools
 
