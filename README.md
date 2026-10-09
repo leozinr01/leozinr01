@@ -6,15 +6,18 @@ Reach me at: devleonardoo@outlook.com
 
 Backend Software Developer focused on Java, Spring Boot, and backend architecture. I build reliable, secure, and maintainable applications, following software engineering best practices from design to implementation.
 
- • I develop backend services and RESTful APIs using Java, Spring Boot, Spring Data JPA, and Spring Security.
+ • I build backend services and REST APIs with Java and Spring Boot, working with Spring Data JPA, Spring Security,
+   JWT and relational databases.
  <br>
- • I apply Clean Architecture, SOLID, and Clean Code principles to build scalable and maintainable systems.
+ • I apply Clean Architecture, SOLID and Clean Code principles to keep systems maintainable and easier to evolve.
  <br>
- • I work with PostgreSQL, MySQL, JPA/Hibernate, and Flyway for database modeling, persistence, and schema migrations.
+ • I work with PostgreSQL, MySQL, JPA/Hibernate and Flyway for persistence, database modeling and schema
+   migrations.
  <br>
  • I implement authentication and authorization using Spring Security, JWT, RBAC, and object-level access control.
  <br>
- • I write automated tests with JUnit, Mockito, and Testcontainers to validate business logic and integration scenarios.
+ • I treat automated testing as part of development, using JUnit, Mockito and Testcontainers to validate business
+   rules and integrations.
  <br>
  • I explore event-driven architecture, Apache Kafka, distributed systems, and AI integration with Java.---
 
