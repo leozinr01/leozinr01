@@ -1,8 +1,6 @@
-<p>
- <h1>
-  Leonardo Ribeiro
- </h1>
-</p>
+<a href="https://github.com/leozinr01">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1500&color=E6EDF3&vCenter=true&width=640&height=60&lines=Leonardo+Ribeiro;Backend+Software+Developer;Java+%26+Spring+Boot" alt="Leonardo Ribeiro" />
+</a>
 
 Reach me at: [devleonardoo@outlook.com](mailto:devleonardoo@outlook.com)
 
